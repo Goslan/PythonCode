@@ -1,5 +1,5 @@
 # PythonCode
-#Gostaria que você verificasse esse código, por favor.  Acho que o erro está nas duas primeiras linhas.
+#Gostaria que você verificasse esse código, por favor.  Acho que o erro está na segunda e terceira linhas.
 import numpy as np
 import matplotlib.pyplot as plt
 
